@@ -122,12 +122,6 @@ Integrate Zap to offer:
 
 ---
 
-## Links
-
-- **Bittensor:** https://bittensor.com
-
----
-
 ## License
 
 MIT
